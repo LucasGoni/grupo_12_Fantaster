@@ -8,7 +8,7 @@
 **¿Quién será la audiencia objetivo?**
 
 - Usuarios que sean amantes de la privacidad y la nueva cultura de coleccionismo digital.
-- Coleccionistas que se encuentren interesados en adquirir las piezas exclusivas y extrañas del mercado y representativas de este mercado
+- Coleccionistas que se encuentren interesados en adquirir piezas exclusivas, extrañas y representativas de este mercado
 
 **¿Cómo ajustaremos la oferta a este público?**
 
