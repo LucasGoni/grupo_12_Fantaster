@@ -1,0 +1,27 @@
+{
+  "name": "grupo12fantaster",
+  "version": "1.0.0",
+  "description": "**¿Qué productos o servicios brindará el sitio?**",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/app.js -e js,mjs,json,html,css",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGoni/grupo_12_PNL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasGoni/grupo_12_PNL/issues"
+  },
+  "homepage": "https://github.com/LucasGoni/grupo_12_PNL#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
